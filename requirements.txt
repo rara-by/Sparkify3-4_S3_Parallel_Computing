@@ -1,0 +1,9 @@
+awscli
+boto3
+numpy
+pandas
+smart-open
+pyyaml
+ipython
+jupyter 
+ipyparallel
